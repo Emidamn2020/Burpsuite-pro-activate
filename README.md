@@ -10,7 +10,8 @@ step :3
 enter in burp folder
 
 step :5 
-check burp loader file & 
+check burp loader file & hit command 
+
 java --jar "name of loader file like burp loader, Edition, etc"
 
 it will open activator file if there is problem about java jdk version then you have to install java jdk version 8 
